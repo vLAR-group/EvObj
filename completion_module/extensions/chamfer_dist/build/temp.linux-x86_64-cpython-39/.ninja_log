@@ -1,0 +1,5 @@
+# ninja log v5
+5	34350	1759927294381881611	/media/SSD/zihui/simon/PoinTr/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer_cuda.o	58fdc1905d268c
+0	70516	1759927330525576523	/media/SSD/zihui/simon/PoinTr/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer.o	816acfc51b6608d0
+1	14913	1760810116522854266	/media/SSD/zihui/simon/GrabS_spconv/completion_substitute/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer_cuda.o	a97800fdb277319b
+0	32435	1760810134038999990	/media/SSD/zihui/simon/GrabS_spconv/completion_substitute/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer.o	90012fee0b10bf95

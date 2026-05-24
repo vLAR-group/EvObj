@@ -1,0 +1,10 @@
+# ninja log v5
+1	4665	1693974048646171631	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/sampling.o	6355be53e0d43dc
+0	4774	1693974048754172460	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/group_points.o	c087c67cb61b39af
+0	4775	1693974048754172460	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/interpolate.o	c3ffee5f61f45cee
+0	4815	1693974048794172766	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/ball_query.o	69a7caf79de41ed3
+0	12050	1693974056026227982	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/group_points_gpu.o	caf82f70a7e8bef4
+0	12129	1693974056106228591	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/ball_query_gpu.o	90ef1d0103efffdb
+0	12129	1693974056110228621	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/interpolate_gpu.o	b975b5e2d4097943
+1	12338	1693974056318230199	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/sampling_gpu.o	73549fb07d2d2bdb
+0	14416	1693974058386245886	/home/user/SSD/OGC/pointnet2/build/temp.linux-x86_64-3.8/src/pointnet2_api.o	f0a279ecddae3a75

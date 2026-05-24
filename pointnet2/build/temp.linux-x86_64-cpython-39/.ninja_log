@@ -1,0 +1,19 @@
+# ninja log v5
+0	4958	1697372272964017163	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/group_points.o	60c7d33beaea8cc9
+1	4971	1697372272980017413	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/sampling.o	a3e07e901a7e13e0
+1	5019	1697372273028018167	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/interpolate.o	9f5db39061d6bbfe
+0	5264	1697372273272021995	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/ball_query.o	5cbc0e4d218bd630
+1	12757	1697372280764139530	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/interpolate_gpu.o	2b3e5b5a87934955
+0	12857	1697372280864141098	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/ball_query_gpu.o	24952c1333d3c107
+1	13084	1697372281092144674	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/group_points_gpu.o	2b73a5b105bb7028
+1	13413	1697372281420149818	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/sampling_gpu.o	8ae8e0bb703214ae
+1	15492	1697372283492182320	/home/user/SSD/ndf/pointnet2/build/temp.linux-x86_64-cpython-39/src/pointnet2_api.o	a6754bf402bb912c
+2	8277	1778056542035440734	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/sampling.o	acfad29b3e5ca60f
+1	8283	1778056542043440676	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/group_points.o	1905ba371edad7be
+1	8344	1778056542103440249	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/interpolate.o	79dd5896601c1870
+0	8928	1778056542687436082	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/ball_query.o	a6eda73d2c0bee89
+2	18488	1778056552247367660	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/interpolate_gpu.o	5928e55041a7b0cf
+1	18535	1778056552291367344	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/ball_query_gpu.o	3905f70ecab3f4ee
+1	18749	1778056552503365822	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/group_points_gpu.o	503f69febec9de32
+2	18961	1778056552719364271	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/sampling_gpu.o	573e7eea19448863
+2	26263	1778056560011311778	/media/SSD/zihui/simon/EvObj/pointnet2/build/temp.linux-x86_64-cpython-39/src/pointnet2_api.o	258f936e82973904

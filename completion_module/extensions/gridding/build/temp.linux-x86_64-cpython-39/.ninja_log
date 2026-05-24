@@ -1,0 +1,4 @@
+# ninja log v5
+6	34634	1759927438876640775	/media/SSD/zihui/simon/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-39/gridding_cuda.o	bd84d31474e5ef97
+10	68665	1759927472896341144	/media/SSD/zihui/simon/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-39/gridding_reverse.o	15a1f3329a8a7db8
+0	70833	1759927475064321964	/media/SSD/zihui/simon/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-39/gridding.o	fa15a57380602913

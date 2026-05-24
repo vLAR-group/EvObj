@@ -1,0 +1,5 @@
+# ninja log v5
+5	23462	1759930018771001051	/media/SSD/zihui/simon/PoinTr/extensions/emd/build/temp.linux-x86_64-cpython-39/emd_cuda.o	2f525ef69e085461
+0	33672	1759930028990808935	/media/SSD/zihui/simon/PoinTr/extensions/emd/build/temp.linux-x86_64-cpython-39/emd.o	612d32660ece170
+0	11483	1760810184543384766	/media/SSD/zihui/simon/GrabS_spconv/completion_substitute/extensions/emd/build/temp.linux-x86_64-cpython-39/emd_cuda.o	b1a2eb476cb5bf59
+0	16465	1760810189535420079	/media/SSD/zihui/simon/GrabS_spconv/completion_substitute/extensions/emd/build/temp.linux-x86_64-cpython-39/emd.o	3c11c8fb1a1b5841
