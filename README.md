@@ -113,7 +113,7 @@ python prepare_superpoints/initialSP_prepare_s3dis_SPG.py
 ```
 
 ### Synthetic Scenes
-Download our data from [Google Drive](https://drive.google.com/file/d/1c422lsYV7c0x0vnPDQnwAbr0J_oImSBF/view?usp=sharing) and put it under the `data/sys_scene_occ/processed`, then run the below command:
+Download our data from [Google Drive](https://drive.google.com/file/d/19pyCfWN7W-vvtqUY5tyyGWBUugf0Gjjw/view?usp=drive_link) and put it under the `data/sys_scene_occ/processed`, then run the below command:
 ```shell script
 python prepare_superpoints/initialSP_prepare_sys_SPG.py
 ```
@@ -162,7 +162,7 @@ CUDA_VISIBLE_DEVICES=0 python train_pointtransformer.py
 ```
 - `--dataset_mode`: Specifies the Discerning training mode. Type: `str`, default: `single`, choices: [`single`, `multicls`], help: "Discerning module training mode (`single` for chair-only, `multicls` for multi-class)."
 
-The checkpoint for Discerning Module can be downloaded at [Google Drive](https://drive.google.com/file/d/1NmTVVcA8d2YrHO-nK-lTgFtgho1FzFn_/view?usp=sharing).
+The checkpoint for Discerning Module can be downloaded at [Google Drive](https://drive.google.com/file/d/19pyCfWN7W-vvtqUY5tyyGWBUugf0Gjjw/view?usp=drive_link).
 
 ## 5. Completion Module training
 Thanks to [PoinTr](https://github.com/yuxumin/PoinTr). We use its code to train our completion module.
@@ -189,7 +189,7 @@ CUDA_VISIBLE_DEVICES=0  python training_code/main.py --config cfgs/Shapenet6cls/
 
 ```
 
-The checkpoint for Completion Module can be download at [Google Drive](https://drive.google.com/file/d/1NmTVVcA8d2YrHO-nK-lTgFtgho1FzFn_/view?usp=sharing). 
+The checkpoint for Completion Module can be download at [Google Drive](https://drive.google.com/file/d/19pyCfWN7W-vvtqUY5tyyGWBUugf0Gjjw/view?usp=drive_link). 
 
 
 ## 6. Object Segmentation Network training
@@ -236,7 +236,7 @@ cd ./synthetic
 CUDA_VISIBLE_DEVICES=0 python train_synthetic_vae.py
 
 # Train the segnet by Diffusion SDF
-CUDA_VISIBLE_DEVICES=0 python synthetic_spunet_ada_ddpm.py
+CUDA_VISIBLE_DEVICES=0 python train_synthetic_ddpm.py
 ```
 The script supports the following flexible configuration of the Discerning Module and Completion Module:
 - `--discern_backend`: Specifies the backbone network of the Discerning Module. Type: `str`, default: `sparseUnet`, choices: [`sparseUnet`, `pointTransformer`, `pointNet`], help: "Discerning network backend."
@@ -258,4 +258,4 @@ CUDA_VISIBLE_DEVICES=0  python test_scannetPP_evo.py
 ```
 
 ## 7. Model checkpoints
-We also provide well-trained checkpoints for ScanNet and the synthetic dataset in [Google Drive](https://drive.google.com/file/d/1NmTVVcA8d2YrHO-nK-lTgFtgho1FzFn_/view?usp=sharing). Note that the checkpoints for cross-dataset evaluation on S3DIS/Scannet++ are also trained on ScanNet.
+We also provide well-trained checkpoints for ScanNet and the synthetic dataset in [Google Drive](https://drive.google.com/file/d/19pyCfWN7W-vvtqUY5tyyGWBUugf0Gjjw/view?usp=drive_link). Note that the checkpoints for cross-dataset evaluation on S3DIS/Scannet++ are also trained on ScanNet.
