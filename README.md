@@ -3,7 +3,7 @@
 
 
 ## EvObj: Learning Evolving Object-centric Representations for 3D Instance Segmentation without Scene Supervision 
-[Jiahao Chen](https://d2simon.github.io/), [Zihui Zhang](https://scholar.google.com.hk/citations?hl=en&user=jiwazT8AAAAJ&view_op=list_works&sortby=pubdate), [Yafei Yang](https://yafeiy.github.io/), [Jinxi Li](https://jinxi-li.github.io/), [ShenXing Wei](https://scholar.google.com/citations?user=5RH0zBMAAAAJ&hl=en), Zhixuan Sun, [Bo Yang](https://yang7879.github.io/)
+[Jiahao Chen](https://d2simon.github.io/), [Zihui Zhang](https://zihui0930.github.io/), [Yafei Yang](https://yafeiy.github.io/), [Jinxi Li](https://jinxi-li.github.io/), [Shenxing Wei](https://scholar.google.com/citations?user=5RH0zBMAAAAJ&hl=en), Zhixuan Sun, [Bo Yang](https://yang7879.github.io/)
 
 
 
