@@ -73,7 +73,7 @@ def main(cfg, logger):
         model_cfg = OmegaConf.load(file)
     mask3d = mask3d_loading(model_cfg)
 
-    val_dataset = scannetPP_dataset.VoxelizedDataset('validation', cfg, data_path=cfg.data_dir, batch_size=1, num_workers=4, voxel_size=cfg.voxel_size)
+    val_dataset = scannetPP_dataset.VoxelizedDataset('validation', cfg, data_path=cfg.data_dir, batch_size=1, num_workers=4, voxel_size=0.05)
     trainer = testing_scannetPP_evo.Trainer(mask3d, logger, val_dataset, cfg.save_path, cfg, use_label=False)
 
     trainer.validation(vis=False, log=False)
